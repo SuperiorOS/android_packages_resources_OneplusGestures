@@ -5,7 +5,7 @@
   <string name="dlg_ok">OK</string>
   <string name="cancel">Отмена</string>
   <string name="reset">Сброс</string>
-  <string name="reset_message">Сбросить все записи к значениям по умолчанию?</string>
+  <string name="reset_message">Установить значения по умолчанию?</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">Жесты при выключенном экране</string>
   <string name="screen_off_gestures_summary">Управление жестами при выключенном экране</string>

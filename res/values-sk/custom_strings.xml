@@ -5,35 +5,35 @@
   <string name="dlg_ok">OK</string>
   <string name="cancel">Zrušiť</string>
   <string name="reset">Resetovať</string>
-  <string name="reset_message">Obnoviť všetky položky na predvolené hodnoty?</string>
+  <string name="reset_message">Resetovať všetky položky na predvolené hodnoty?</string>
   <!-- Screen off gestures -->
   <string name="screen_off_gestures_title">Gestá pri vypnutej obrazovke</string>
   <string name="screen_off_gestures_summary">Spravovať gestá pri vypnutej obrazovke</string>
   <string name="group_applications">Aplikácie</string>
-  <string name="select_custom_app_title">Vyberte vlastnú aplikáciu</string>
+  <string name="select_custom_app_title">Vybrať vlastnú aplikáciu</string>
   <string name="enable_gestures_title">Povoliť gestá</string>
   <string name="enable_gestures_summary">Povoliť gestá pri vypnutej obrazovke</string>
   <string name="gestures_title">Gestá</string>
   <string name="gesture_arrow_down_title">Šípka nadol</string>
-  <string name="gesture_arrow_left_title">Šípka doľava</string>
-  <string name="gesture_arrow_right_title">Šípka doprava</string>
-  <string name="gesture_arrow_up_title">Šípka dolú</string>
+  <string name="gesture_arrow_left_title">Šípka vľavo</string>
+  <string name="gesture_arrow_right_title">Šípka vpravo</string>
+  <string name="gesture_arrow_up_title">Šípka nahor</string>
   <string name="gesture_circle_title">Kruh</string>
-  <string name="gesture_double_swipe_title">Potiahnutie dvoma prstami dole</string>
+  <string name="gesture_double_swipe_title">Potiahnutie dvoma prstami nadol</string>
   <string name="gesture_double_tap_title">Dvojklik</string>
   <!-- Notification slider -->
   <string name="notification_slider_title">Posuvník upozornení</string>
-  <string name="notification_slider_summary">Spravovať pusvník upozornení</string>
-  <string name="action">Činnosť</string>
-  <string name="top_position">Horná pozícia</string>
-  <string name="middle_position">Stredná pozícia</string>
-  <string name="bottom_position">Spodná pozícia</string>
+  <string name="notification_slider_summary">Spravovať posuvník upozornení</string>
+  <string name="action">Akcia</string>
+  <string name="top_position">Umiestnenie hore</string>
+  <string name="middle_position">Umiestnenie uprostred</string>
+  <string name="bottom_position">Umiestnenie dolu</string>
   <string name="total_silence">Úplné ticho</string>
   <string name="alarms_only">Iba budíky</string>
   <string name="priority_only">Iba prioritné</string>
   <string name="none">Všetky upozornenia</string>
-  <string name="vibrate">Vibrovať</string>
-  <string name="ring">Zvoniť</string>
+  <string name="vibrate">Vibrácie</string>
+  <string name="ring">Zvonenie</string>
   <!-- Shortcut actions -->
   <string name="shortcut_action_app">Vlastná aplikácia</string>
   <string name="shortcut_action_camera">Fotoaparát</string>
@@ -41,9 +41,9 @@
   <string name="shortcut_action_media_play_pause">Hudba - prehrávanie/pozastavenie</string>
   <string name="shortcut_action_media_previous">Hudba - predchádzajúca skladba</string>
   <string name="shortcut_action_ring_silent">Vyzváňanie/Tichý</string>
-  <string name="shortcut_action_ring_vib">Zvonenie/vibrácie</string>
+  <string name="shortcut_action_ring_vib">Vyzváňanie/Vibrácie</string>
   <string name="shortcut_action_ring_vib_silent">Vyzváňanie/Vibrácie/Tichý</string>
   <string name="shortcut_action_torch">Baterka</string>
-  <string name="shortcut_action_wake_device">Zobudiť zariadenie</string>
-  <string name="shortcut_action_none">Žiadny</string>
+  <string name="shortcut_action_wake_device">Prebudiť zariadenie</string>
+  <string name="shortcut_action_none">Nič</string>
 </resources>
