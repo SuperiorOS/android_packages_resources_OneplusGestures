@@ -22,8 +22,8 @@
   <string name="gesture_double_swipe_title">Свайп двумя пальцами вниз</string>
   <string name="gesture_double_tap_title">Двойное нажатие</string>
   <!-- Notification slider -->
-  <string name="notification_slider_title">Слайдер уведомлений</string>
-  <string name="notification_slider_summary">Настроить слайдер уведомлений</string>
+  <string name="notification_slider_title">Ползунок уведомлений</string>
+  <string name="notification_slider_summary">Настроить ползунок уведомлений</string>
   <string name="action">Действие</string>
   <string name="top_position">Верхнее положение</string>
   <string name="middle_position">Среднее положение</string>
@@ -44,6 +44,6 @@
   <string name="shortcut_action_ring_vib">Звонок/Вибрация</string>
   <string name="shortcut_action_ring_vib_silent">Звонок/Вибрация/Без звука</string>
   <string name="shortcut_action_torch">Фонарик</string>
-  <string name="shortcut_action_wake_device">Разбудить устройство</string>
+  <string name="shortcut_action_wake_device">Пробудить устройство</string>
   <string name="shortcut_action_none">Нет</string>
 </resources>
