@@ -19,7 +19,7 @@
   <string name="gesture_arrow_right_title">右矢印</string>
   <string name="gesture_arrow_up_title">上矢印</string>
   <string name="gesture_circle_title">サークル</string>
-  <string name="gesture_double_swipe_title">2本指のスワイプダウン</string>
+  <string name="gesture_double_swipe_title">2本指で下にスワイプ</string>
   <string name="gesture_double_tap_title">ダブルタップ</string>
   <!-- Notification slider -->
   <string name="notification_slider_title">通知スライダー</string>
@@ -28,11 +28,11 @@
   <string name="top_position">上部</string>
   <string name="middle_position">中央</string>
   <string name="bottom_position">下部</string>
-  <string name="total_silence">サイレント</string>
+  <string name="total_silence">完全にサイレント</string>
   <string name="alarms_only">アラームのみ</string>
   <string name="priority_only">優先する通知のみ</string>
   <string name="none">すべての通知</string>
-  <string name="vibrate">マナーモード</string>
+  <string name="vibrate">振動</string>
   <string name="ring">着信</string>
   <!-- Shortcut actions -->
   <string name="shortcut_action_app">カスタムアプリ</string>
