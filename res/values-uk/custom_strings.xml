@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Розширені налаштування</string>
   <!-- O-Touch settings -->
   <string name="touchpad_enable_title">Увімкнути O-Touch</string>
   <string name="touchpad_enable_summary">Сенсорна панель на задній стороні телефону</string>
@@ -24,6 +25,9 @@
   <string name="touchpad_double_tap_title">Подвійне натискання для зйомки</string>
   <string name="touchpad_double_tap_summary">У програмі камери двічі натисніть на сенсорну панель, щоб зробити знімок</string>
   <!-- Gesture shortcuts -->
+  <string name="gestures_dashboard_summary">Жести, специфічні для пристроїв OnePlus</string>
+  <string name="touchscreen_double_tap_gesture_title">Розбудити пристрій</string>
+  <string name="touchscreen_double_tap_gesture_summary">Натисніть двічі, щоб розбудити пристрій</string>
   <string name="touchscreen_camera_gesture_title">Камера</string>
   <string name="touchscreen_camera_gesture_summary">Намалюйте коло щоб задіяти камеру</string>
   <string name="touchscreen_music_gesture_title">Музика</string>
@@ -52,6 +56,17 @@
   <string name="oclick_notification_title_disconnected">Роз\'єднано з O-Click</string>
   <string name="oclick_notification_content_disconnected">Натисніть кнопку \"O-Click\", щоб перепід\'єднатися</string>
   <!-- haptic feedback  -->
+  <string name="touchscreen_extras">Додатково</string>
+  <string name="haptic_feedback">Вібровідгук</string>
+  <string name="haptic_feedback_summary">Вібрувати при розпізнаванні жесту</string>
   <!-- Button settings -->
   <!-- Notification slider -->
+  <string name="notification_slider_selection_dialog_title">Дія</string>
+  <string name="notification_slider_top_position">Зверху</string>
+  <string name="notification_slider_middle_position">Посередині</string>
+  <string name="notification_slider_bottom_position">Знизу</string>
+  <string name="notification_slider_mode_total_silence">Повна тиша</string>
+  <string name="notification_slider_mode_alarms_only">Лише будильник</string>
+  <string name="notification_slider_mode_priority_only">Лише важливі</string>
+  <string name="notification_slider_mode_none">Вимкнено</string>
 </resources>

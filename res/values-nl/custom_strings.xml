@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Geavanceerde instellingen</string>
   <!-- O-Touch settings -->
   <string name="touchpad_enable_title">O-Touch inschakelen</string>
   <string name="touchpad_enable_summary">Touchpad aan achterkant voor navigeren</string>
@@ -24,6 +25,7 @@
   <string name="touchpad_double_tap_title">Dubbeltikken voor opname</string>
   <string name="touchpad_double_tap_summary">In camera dubbeltikken om een foto te nemen</string>
   <!-- Gesture shortcuts -->
+  <string name="screen_gestures_panel_title">Apparaat extras</string>
   <string name="touchscreen_camera_gesture_title">Camera</string>
   <string name="touchscreen_camera_gesture_summary">Teken een cirkel om camera te openen</string>
   <string name="touchscreen_music_gesture_title">Muziek</string>

@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">進階設定</string>
   <!-- O-Touch settings -->
   <string name="touchpad_enable_title">啟用 O-Touch</string>
   <string name="touchpad_enable_summary">後觸控板操縱手機</string>
@@ -24,11 +25,19 @@
   <string name="touchpad_double_tap_title">輕觸兩下即可拍攝</string>
   <string name="touchpad_double_tap_summary">使用相機時，輕觸兩下即可拍攝</string>
   <!-- Gesture shortcuts -->
+  <string name="screen_gestures_panel_title">其他手勢</string>
+  <string name="gestures_dashboard_summary">對於一加手機的特殊手勢</string>
+  <string name="touchscreen_double_tap_gesture_title">喚醒裝置</string>
+  <string name="touchscreen_double_tap_gesture_summary">輕觸兩下即可喚醒裝置</string>
   <string name="touchscreen_camera_gesture_title">相機</string>
   <string name="touchscreen_camera_gesture_summary">畫一個圈即可啟動相機</string>
   <string name="touchscreen_music_gesture_title">音樂</string>
   <string name="touchscreen_flashlight_gesture_title">手電筒</string>
   <string name="touchscreen_flashlight_gesture_summary">畫一個「V」即可開關手電筒</string>
+  <string name="touchscreen_music_gesture_summary">使用手勢控制音樂播放 \n
+    • 兩個手指垂直滑動來播放或暫停\n 
+    • 畫出左箭頭 (\'&#60;\') 切換至上一首\n 
+    • 畫出右箭頭 (\'&#62;\') 切換至下一首</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">連線</string>
   <string name="oclick_disconnect_string">中斷連線</string>
@@ -52,6 +61,19 @@
   <string name="oclick_notification_title_disconnected">O-Click 失去連線</string>
   <string name="oclick_notification_content_disconnected">按下 O-Click 按鈕以重新連線</string>
   <!-- haptic feedback  -->
+  <string name="touchscreen_extras">附加功能</string>
+  <string name="haptic_feedback">觸覺反饋</string>
+  <string name="haptic_feedback_summary">當感測到手勢時發出震動</string>
   <!-- Button settings -->
+  <string name="button_panel_title">三段式開關</string>
+  <string name="buttons_dashboard_summary">三段式開關設置</string>
   <!-- Notification slider -->
+  <string name="notification_slider_selection_dialog_title">動作</string>
+  <string name="notification_slider_top_position">頂部位置</string>
+  <string name="notification_slider_middle_position">中間位置</string>
+  <string name="notification_slider_bottom_position">底部位置</string>
+  <string name="notification_slider_mode_total_silence">完全靜音</string>
+  <string name="notification_slider_mode_alarms_only">僅允許鬧鐘</string>
+  <string name="notification_slider_mode_priority_only">僅限優先通知</string>
+  <string name="notification_slider_mode_none">無</string>
 </resources>

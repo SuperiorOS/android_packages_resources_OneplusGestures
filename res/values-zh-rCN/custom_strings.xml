@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">高级设置</string>
   <!-- O-Touch settings -->
   <string name="touchpad_enable_title">启用 O-Touch</string>
   <string name="touchpad_enable_summary">背面触摸板导航手机</string>
@@ -24,11 +25,19 @@
   <string name="touchpad_double_tap_title">轻按两下来拍摄</string>
   <string name="touchpad_double_tap_summary">在相机中，轻按两下来拍摄照片</string>
   <!-- Gesture shortcuts -->
+  <string name="screen_gestures_panel_title">设备附加</string>
+  <string name="gestures_dashboard_summary">一加手机专属手势</string>
+  <string name="touchscreen_double_tap_gesture_title">唤醒设备</string>
+  <string name="touchscreen_double_tap_gesture_summary">双击唤醒</string>
   <string name="touchscreen_camera_gesture_title">相机</string>
   <string name="touchscreen_camera_gesture_summary">画一个圆圈以启动相机</string>
   <string name="touchscreen_music_gesture_title">音乐</string>
   <string name="touchscreen_flashlight_gesture_title">手电筒</string>
   <string name="touchscreen_flashlight_gesture_summary">画 \'V\' 以启动手电筒</string>
+  <string name="touchscreen_music_gesture_summary">使用手势控制音乐播放 \n
+    • 双指垂直滑动来播放/暂停\n 
+    • 左滑 (\'&#60;\') 切换到上一首\n 
+    • 右滑 (\'&#62;\') 切换到下一首</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">连接</string>
   <string name="oclick_disconnect_string">断开连接</string>
@@ -52,8 +61,12 @@
   <string name="oclick_notification_title_disconnected">O-Click 已断开连接</string>
   <string name="oclick_notification_content_disconnected">按下 O-Click 按钮重新连接</string>
   <!-- haptic feedback  -->
+  <string name="touchscreen_extras">附加功能</string>
+  <string name="haptic_feedback">触觉反馈</string>
+  <string name="haptic_feedback_summary">检测到手势时震动</string>
   <!-- Button settings -->
   <string name="button_panel_title">更多按钮</string>
+  <string name="buttons_dashboard_summary">三段式开关设置</string>
   <!-- Notification slider -->
   <string name="notification_slider_selection_dialog_title">动作</string>
   <string name="notification_slider_top_position">顶部位置</string>

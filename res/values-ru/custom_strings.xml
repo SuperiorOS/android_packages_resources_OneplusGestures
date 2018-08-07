@@ -26,21 +26,21 @@
   <string name="touchpad_double_tap_summary">В приложении «Камера» дважды нажмите на сенсорную панель, чтобы сделать снимок</string>
   <!-- Gesture shortcuts -->
   <string name="screen_gestures_panel_title">Жесты OnePlus</string>
-  <string name="gestures_dashboard_summary">Жесты устройств OnePlus</string>
-  <string name="touchscreen_double_tap_gesture_title">Разбудить устройство</string>
-  <string name="touchscreen_double_tap_gesture_summary">Коснитесь дважды, чтобы разбудить устройство</string>
+  <string name="gestures_dashboard_summary">Жесты, специфичные для устройств OnePlus</string>
+  <string name="touchscreen_double_tap_gesture_title">Пробуждение устройства</string>
+  <string name="touchscreen_double_tap_gesture_summary">Двойное нажатие для пробуждения устройства</string>
   <string name="touchscreen_camera_gesture_title">Камера</string>
   <string name="touchscreen_camera_gesture_summary">Нарисуйте круг для запуска камеры</string>
   <string name="touchscreen_music_gesture_title">Музыка</string>
   <string name="touchscreen_flashlight_gesture_title">Фонарик</string>
-  <string name="touchscreen_flashlight_gesture_summary">Нарисуйте букву \'V\' , чтобы включить или выключить фонарик</string>
+  <string name="touchscreen_flashlight_gesture_summary">Нарисуйте букву \'V\', чтобы включить или выключить фонарик</string>
   <string name="touchscreen_music_gesture_summary">Используйте жесты для управления музыкой \n
       • Двумя пальцами вверх для воспроизведения/паузы\n
       • Нарисуйте стрелку влево (\'&#60;\') для предыдущего трека\n
       • Нарисуйте стрелку вправо (\'&#62;\') для следующего трека</string>
   <!-- O-Click settings -->
-  <string name="oclick_connect_string">Подключить</string>
-  <string name="oclick_disconnect_string">Отключить</string>
+  <string name="oclick_connect_string">Подключиться</string>
+  <string name="oclick_disconnect_string">Отключиться</string>
   <string name="oclick_summary_connected">Подключено к устройству O-Click</string>
   <string name="oclick_summary_paired">Устройство O-Click сопряжено, но не подключено</string>
   <string name="oclick_dialog_connecting_message">Подключение к устройству O-Click\u2026\nМожно нажать кнопку O-Click, чтобы ускорить процесс обнаружения.</string>

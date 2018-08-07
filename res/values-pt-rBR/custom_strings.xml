@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Configurações avançadas</string>
   <!-- O-Touch settings -->
   <string name="touchpad_enable_title">Ativar O-Touch</string>
   <string name="touchpad_enable_summary">Touchpad traseiro para navegar pelo telefone</string>
@@ -24,6 +25,10 @@
   <string name="touchpad_double_tap_title">Toque duas vezes para capturar</string>
   <string name="touchpad_double_tap_summary">Enquanto estiver na câmera, toque duas vezes para capturar a imagem</string>
   <!-- Gesture shortcuts -->
+  <string name="screen_gestures_panel_title">Gestos do dispositivo</string>
+  <string name="gestures_dashboard_summary">Gestos específicos para dispositivos OnePlus</string>
+  <string name="touchscreen_double_tap_gesture_title">Acordar o dispositivo</string>
+  <string name="touchscreen_double_tap_gesture_summary">Toque duas vezes para acordar o dispositivo</string>
   <string name="touchscreen_camera_gesture_title">Câmera</string>
   <string name="touchscreen_camera_gesture_summary">Desenhe um círculo para ativar a câmera</string>
   <string name="touchscreen_music_gesture_title">Música</string>
@@ -56,8 +61,12 @@
   <string name="oclick_notification_title_disconnected">O-Click desconectado</string>
   <string name="oclick_notification_content_disconnected">Pressione o botão O-Click para reconectar</string>
   <!-- haptic feedback  -->
+  <string name="touchscreen_extras">Extras</string>
+  <string name="haptic_feedback">Retorno tátil</string>
+  <string name="haptic_feedback_summary">Vibrar quando um gesto for detectado</string>
   <!-- Button settings -->
   <string name="button_panel_title">Botões adicionais</string>
+  <string name="buttons_dashboard_summary">Configurações do controle deslizante de alerta</string>
   <!-- Notification slider -->
   <string name="notification_slider_selection_dialog_title">Ação</string>
   <string name="notification_slider_top_position">Posição superior</string>

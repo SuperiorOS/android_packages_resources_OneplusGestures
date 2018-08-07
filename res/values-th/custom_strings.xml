@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">ตั้งค่าขั้นสูง</string>
   <!-- O-Touch settings -->
   <string name="touchpad_enable_title">เปิดใช้งาน O-Touch</string>
   <string name="touchpad_enable_summary">แตะหลังเครื่องเพื่อคุมโทรศัพท์</string>
@@ -24,6 +25,7 @@
   <string name="touchpad_double_tap_title">แตะสองครั้งเพื่อจับภาพ</string>
   <string name="touchpad_double_tap_summary">ขณะเปิดใช้กล้องอยู่ แตะสองครั้งเพื่อจับภาพ</string>
   <!-- Gesture shortcuts -->
+  <string name="screen_gestures_panel_title">ท่าทางสัมผัสอุปกรณ์</string>
   <string name="touchscreen_camera_gesture_title">กล้อง</string>
   <string name="touchscreen_camera_gesture_summary">วาดวงกลมเพื่อเปิดกล้อง</string>
   <string name="touchscreen_music_gesture_title">เพลง</string>
