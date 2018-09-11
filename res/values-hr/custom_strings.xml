@@ -16,14 +16,19 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Napredne postavke</string>
   <!-- O-Touch settings -->
-  <string name="touchpad_enable_title">Uključi O-Touch</string>
+  <string name="touchpad_enable_title">Omogući O-Touch</string>
   <string name="touchpad_enable_summary">Stražnji touchpad za upravljanje telefonom</string>
   <string name="touchpad_long_press_title">Dugi pritisak za pokretanje kamere</string>
   <string name="touchpad_long_press_summary">Dugi pritisak touchpada će pokrenuti kameru</string>
   <string name="touchpad_double_tap_title">Dupli-klik za slikanje</string>
   <string name="touchpad_double_tap_summary">U kamera aplikaciji, dupli-klik će uslikati sliku</string>
   <!-- Gesture shortcuts -->
+  <string name="screen_gestures_panel_title">Dodatne funkcionalnosti uređaja</string>
+  <string name="gestures_dashboard_summary">Geste specifične za OnePlus uređaje</string>
+  <string name="touchscreen_double_tap_gesture_title">Probudi uređaj</string>
+  <string name="touchscreen_double_tap_gesture_summary">Dodirni zaslon dvaput za buđenje uređaja</string>
   <string name="touchscreen_camera_gesture_title">Kamera</string>
   <string name="touchscreen_camera_gesture_summary">Nacrtaj krug za pokretanje kamere</string>
   <string name="touchscreen_music_gesture_title">Glazba</string>
@@ -56,8 +61,12 @@
   <string name="oclick_notification_title_disconnected">O-Click nije spojen</string>
   <string name="oclick_notification_content_disconnected">Pritisnite O-Click tipku za ponovno spajanje</string>
   <!-- haptic feedback  -->
+  <string name="touchscreen_extras">Dodaci</string>
+  <string name="haptic_feedback">Vibracijska povratna informacija</string>
+  <string name="haptic_feedback_summary">Zavibriraj nakon uspješno prepoznate geste</string>
   <!-- Button settings -->
-  <string name="button_panel_title">Dodatne tipke</string>
+  <string name="button_panel_title">Klizač obavijesti</string>
+  <string name="buttons_dashboard_summary">Postavke klizača obavijesti</string>
   <!-- Notification slider -->
   <string name="notification_slider_selection_dialog_title">Radnja</string>
   <string name="notification_slider_top_position">Na vrhu</string>

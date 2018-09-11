@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">الإعدادات المتقدمة</string>
   <!-- O-Touch settings -->
   <string name="touchpad_enable_title">تمكين O-اللمس</string>
   <string name="touchpad_enable_summary">لوحة اللمس الخلفية للتنقل في الهاتف</string>
@@ -24,11 +25,19 @@
   <string name="touchpad_double_tap_title">انقر مرتين للإلتقاط</string>
   <string name="touchpad_double_tap_summary">عند التواجد في وضع الكاميرا، انقر مرتين لألتقاط الصورة</string>
   <!-- Gesture shortcuts -->
+  <string name="screen_gestures_panel_title">إضافات الجهاز</string>
+  <string name="gestures_dashboard_summary">الإيماءات الخاصة بأجهزة OnePlus</string>
+  <string name="touchscreen_double_tap_gesture_title">إيقاظ الجهاز</string>
+  <string name="touchscreen_double_tap_gesture_summary">ضغطتين لإيقاظ الجهاز</string>
   <string name="touchscreen_camera_gesture_title">الكاميرا</string>
   <string name="touchscreen_camera_gesture_summary">رسم دائرة لتنشيط الكاميرا</string>
   <string name="touchscreen_music_gesture_title">موسيقى</string>
   <string name="touchscreen_flashlight_gesture_title">كشاف</string>
   <string name="touchscreen_flashlight_gesture_summary">رسم \'V\' للتبديل بين الكشاف</string>
+  <string name="touchscreen_music_gesture_summary">استخدام الإيماءات للتحكم بقائمة تشغيل الموسيقى \n
+ • اصبعين عموديًا للتشغيل/إيقاف\n 
+• ارسم سهم أيسر (\'&#60;\') للمسار السابق\n 
+• ارسم سهم أيمن (\'&#62;\') للمسار التالي</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">الاتصال</string>
   <string name="oclick_disconnect_string">فصل</string>
@@ -52,8 +61,12 @@
   <string name="oclick_notification_title_disconnected">O-Click غير متصل</string>
   <string name="oclick_notification_content_disconnected">اضغط على زر O-Click لإعادة الاتصال</string>
   <!-- haptic feedback  -->
+  <string name="touchscreen_extras">إضافات</string>
+  <string name="haptic_feedback">رد الفعل الإهتزازي</string>
+  <string name="haptic_feedback_summary">الاهتزاز عند التعرف على إيماءة</string>
   <!-- Button settings -->
   <string name="button_panel_title">أزرار إضافية</string>
+  <string name="buttons_dashboard_summary">إعدادات تنبيهات المنزلق</string>
   <!-- Notification slider -->
   <string name="notification_slider_selection_dialog_title">إجراء</string>
   <string name="notification_slider_top_position">الموضع العلوي</string>

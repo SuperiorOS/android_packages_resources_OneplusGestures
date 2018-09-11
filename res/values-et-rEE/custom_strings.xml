@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Täpsemad seaded</string>
   <!-- O-Touch settings -->
   <string name="touchpad_enable_title">Luba O-Touch</string>
   <string name="touchpad_enable_summary">Tagumine puuteplaat et navigeerida telefonis</string>
@@ -24,11 +25,19 @@
   <string name="touchpad_double_tap_title">Topeltpuuduta et jäädvustada</string>
   <string name="touchpad_double_tap_summary">Kaameras olles topeltpuudutusel jäädvustab pildi</string>
   <!-- Gesture shortcuts -->
+  <string name="screen_gestures_panel_title">Seadme lisad</string>
+  <string name="gestures_dashboard_summary">Žestid, mis on spetsiifilised OnePlus\'i seadmetele</string>
+  <string name="touchscreen_double_tap_gesture_title">Ärata seade</string>
+  <string name="touchscreen_double_tap_gesture_summary">Topeltpuuduta, et äratada seade</string>
   <string name="touchscreen_camera_gesture_title">Kaamera</string>
   <string name="touchscreen_camera_gesture_summary">Tõmmake ring et aktiveerida kaamera</string>
   <string name="touchscreen_music_gesture_title">Muusika</string>
   <string name="touchscreen_flashlight_gesture_title">Taskulamp</string>
   <string name="touchscreen_flashlight_gesture_summary">Joonista \'V\' et lülitada taskulampi</string>
+  <string name="touchscreen_music_gesture_summary">Kasuta žeste, et kontrollida muusikaesitust \n
+    • Kahe nupuga vertikaalselt, et esitada/peatada\n
+    • Joonista nool vasakule (\'&#60;\') eelmise loo jaoks\n
+    • Joonista nool paremale (\'&#62;\') järgmise loo jaoks</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">Ühenda</string>
   <string name="oclick_disconnect_string">Katkesta ühendus</string>
@@ -52,6 +61,19 @@
   <string name="oclick_notification_title_disconnected">O-Click ühendatamata</string>
   <string name="oclick_notification_content_disconnected">Vajuta O-Click nupul et taasühenduda</string>
   <!-- haptic feedback  -->
+  <string name="touchscreen_extras">Lisad</string>
+  <string name="haptic_feedback">Kompimistagasiside</string>
+  <string name="haptic_feedback_summary">Vibreeri puuteekraani žesti tuvastamisel</string>
   <!-- Button settings -->
+  <string name="button_panel_title">Alert Slider</string>
+  <string name="buttons_dashboard_summary">Alert Slider\'i seaded</string>
   <!-- Notification slider -->
+  <string name="notification_slider_selection_dialog_title">Tegevus</string>
+  <string name="notification_slider_top_position">Ülemine positsioon</string>
+  <string name="notification_slider_middle_position">Keskmine positsioon</string>
+  <string name="notification_slider_bottom_position">Alumine positsioon</string>
+  <string name="notification_slider_mode_total_silence">Täielik vaikus</string>
+  <string name="notification_slider_mode_alarms_only">Ainult äratused</string>
+  <string name="notification_slider_mode_priority_only">Ainult prioriteetsed</string>
+  <string name="notification_slider_mode_none">Puudub</string>
 </resources>

@@ -16,14 +16,19 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Configuració Avançada</string>
   <!-- O-Touch settings -->
   <string name="touchpad_enable_title">Activa O-Touch</string>
-  <string name="touchpad_enable_summary">Panell tàctil posterior per navegar el telèfon</string>
+  <string name="touchpad_enable_summary">Panell tàctil posterior per navegar pel telèfon</string>
   <string name="touchpad_long_press_title">Pulsació llarga per obrir la càmera</string>
   <string name="touchpad_long_press_summary">Pulsació llarga al panell tàctil per obrir l\'aplicació de la càmera</string>
   <string name="touchpad_double_tap_title">Pica dues vegades per capturar</string>
   <string name="touchpad_double_tap_summary">En l\'aplicació de la càmera, pica dues vegades per capturar una imatge</string>
   <!-- Gesture shortcuts -->
+  <string name="screen_gestures_panel_title">Extres del Dispositiu</string>
+  <string name="gestures_dashboard_summary">Gestos Específics per a Dispositius OnePlus</string>
+  <string name="touchscreen_double_tap_gesture_title">Desperta del Dispositiu</string>
+  <string name="touchscreen_double_tap_gesture_summary">Doble toc per a despertar el dispositiu</string>
   <string name="touchscreen_camera_gesture_title">Càmera</string>
   <string name="touchscreen_camera_gesture_summary">Dibuixa un cercle per activar la càmera</string>
   <string name="touchscreen_music_gesture_title">Música</string>
@@ -56,8 +61,12 @@
   <string name="oclick_notification_title_disconnected">O-Click desconnectat</string>
   <string name="oclick_notification_content_disconnected">Prem el botó O-click per tornar a connectar</string>
   <!-- haptic feedback  -->
+  <string name="touchscreen_extras">Extres</string>
+  <string name="haptic_feedback">Resposta Tàctil</string>
+  <string name="haptic_feedback_summary">Vibra quan es detecte un gest</string>
   <!-- Button settings -->
   <string name="button_panel_title">Botons addicionals</string>
+  <string name="buttons_dashboard_summary">Alerta Configuració del control lliscant</string>
   <!-- Notification slider -->
   <string name="notification_slider_selection_dialog_title">Acció</string>
   <string name="notification_slider_top_position">Posició superior</string>

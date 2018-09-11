@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">تنظیمات پیشرفته</string>
   <!-- O-Touch settings -->
   <string name="touchpad_enable_title">چالاککردنی o-بیسووە</string>
   <string name="touchpad_enable_summary">سوینی پاشه‌وه‌ی پاد بۆ ته‌له‌فۆنی نه‌رێ</string>
@@ -24,11 +25,19 @@
   <string name="touchpad_double_tap_title">دووجار ده‌ستی لێبدە بۆ گرتنی وێنه‌</string>
   <string name="touchpad_double_tap_summary">کاتێک کامێرا، دووجار ده‌ستی لێبدە بۆ گرتنی وێنه‌</string>
   <!-- Gesture shortcuts -->
+  <string name="screen_gestures_panel_title">امکانات اضافی</string>
+  <string name="gestures_dashboard_summary">گسچر های خاص برای دستگاه های وان پلاس</string>
+  <string name="touchscreen_double_tap_gesture_title">بیدار کردن دستگاه</string>
+  <string name="touchscreen_double_tap_gesture_summary">دوبار لمس کنید تا دستگاه بیدار شود</string>
   <string name="touchscreen_camera_gesture_title">کامێرا</string>
   <string name="touchscreen_camera_gesture_summary">بازنه‌یه‌کی خڕ بکێشه‌ بۆ چالاککردنی کامێرا</string>
   <string name="touchscreen_music_gesture_title">مۆسیقا</string>
   <string name="touchscreen_flashlight_gesture_title">فلاش لایت</string>
   <string name="touchscreen_flashlight_gesture_summary">\'v\' بکێشە بۆ کردنەوەی فلاش لایت</string>
+  <string name="touchscreen_music_gesture_summary">برای کنترل موسیقی از گسچرها استفاده کنید \n
+    • کشیدن دو انگشت به صورت عمودی برای پخش/توقف \n
+    • کشیدن فلش سمت چپ (\'&#60;\') برای پخش موسیقی قبلی\n
+    • کشیدن فلش سمت راست (\'&#62;\') برای پخش موسیقی بعدی</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">په‌یوه‌ندیکردن</string>
   <string name="oclick_disconnect_string">پچڕانی پەیوەندی</string>
@@ -52,6 +61,19 @@
   <string name="oclick_notification_title_disconnected">اتصال O-Click قطع شد</string>
   <string name="oclick_notification_content_disconnected">کلید O-Click را برای اتصال مجدد بزنید</string>
   <!-- haptic feedback  -->
+  <string name="touchscreen_extras">اضافات</string>
+  <string name="haptic_feedback">بازخورد لمسی</string>
+  <string name="haptic_feedback_summary">لرزش زمانی که گسچر شناسایی شد</string>
   <!-- Button settings -->
+  <string name="button_panel_title">نوار لغزنده هشدار</string>
+  <string name="buttons_dashboard_summary">تنظیمات نوار لغزنده هشدار</string>
   <!-- Notification slider -->
+  <string name="notification_slider_selection_dialog_title">عملکرد</string>
+  <string name="notification_slider_top_position">بالاترین موقعیت</string>
+  <string name="notification_slider_middle_position">موقعیت میانی</string>
+  <string name="notification_slider_bottom_position">موقعیت پایین</string>
+  <string name="notification_slider_mode_total_silence">کاملا بی صدا</string>
+  <string name="notification_slider_mode_alarms_only">فقط هشدار ها</string>
+  <string name="notification_slider_mode_priority_only">فقط اولویت ها</string>
+  <string name="notification_slider_mode_none">هیچ کدام</string>
 </resources>

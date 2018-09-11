@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">הגדרות מתקדמות</string>
   <!-- O-Touch settings -->
   <string name="touchpad_enable_title">הפעל O-Touch</string>
   <string name="touchpad_enable_summary">משטח מגע אחורי לניווט בטלפון</string>
@@ -24,6 +25,10 @@
   <string name="touchpad_double_tap_title">הקשה כפולה לצילום</string>
   <string name="touchpad_double_tap_summary">בעת שהמצלמה פעילה, הקש פעמיים לצילום תמונה</string>
   <!-- Gesture shortcuts -->
+  <string name="screen_gestures_panel_title">הגדרות נוספות של המכשיר</string>
+  <string name="gestures_dashboard_summary">הגדרות ספציפיות למכשירי OnePlus</string>
+  <string name="touchscreen_double_tap_gesture_title">הער את המכשיר</string>
+  <string name="touchscreen_double_tap_gesture_summary">הקשה כפולה כדי להעיר את המכשיר</string>
   <string name="touchscreen_camera_gesture_title">מצלמה</string>
   <string name="touchscreen_camera_gesture_summary">צייר מעגל להפעלת המצלמה</string>
   <string name="touchscreen_music_gesture_title">מוזיקה</string>
@@ -56,8 +61,12 @@
   <string name="oclick_notification_title_disconnected">O-Click מנותק</string>
   <string name="oclick_notification_content_disconnected">לחץ על לחצן O-Click כדי להתחבר מחדש</string>
   <!-- haptic feedback  -->
+  <string name="touchscreen_extras">תוספות</string>
+  <string name="haptic_feedback">משוב רטט</string>
+  <string name="haptic_feedback_summary">הפעל רטט כאשר מזוהה מחווה</string>
   <!-- Button settings -->
   <string name="button_panel_title">לחצנים נוספים</string>
+  <string name="buttons_dashboard_summary">הגדרות של התראה צפה</string>
   <!-- Notification slider -->
   <string name="notification_slider_selection_dialog_title">פעולה</string>
   <string name="notification_slider_top_position">מיקום עליון</string>

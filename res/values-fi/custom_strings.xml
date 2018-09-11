@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Lisäasetukset</string>
   <!-- O-Touch settings -->
   <string name="touchpad_enable_title">Ota O-Touch käyttöön</string>
   <string name="touchpad_enable_summary">Navigoi puhelimessa takana olevan kosketuspinnan avulla</string>
@@ -24,6 +25,10 @@
   <string name="touchpad_double_tap_title">Ota kuva</string>
   <string name="touchpad_double_tap_summary">Kun kamerassa, napauta kahdesti ottaaksesi kuvan</string>
   <!-- Gesture shortcuts -->
+  <string name="screen_gestures_panel_title">Laitteen lisävalinnat</string>
+  <string name="gestures_dashboard_summary">OnePlus laitteiden eleet</string>
+  <string name="touchscreen_double_tap_gesture_title">Herätä laite</string>
+  <string name="touchscreen_double_tap_gesture_summary">Kaksoisnapauta herättääksesi laitteen</string>
   <string name="touchscreen_camera_gesture_title">Kamera</string>
   <string name="touchscreen_camera_gesture_summary">Piirrä ympyrä aktivoidaksesi kameran</string>
   <string name="touchscreen_music_gesture_title">Musiikki</string>
@@ -56,8 +61,12 @@
   <string name="oclick_notification_title_disconnected">Yhteys O-Clickiin katkaistu</string>
   <string name="oclick_notification_content_disconnected">Paina O-Clickin painiketta yhdistääksesi uudelleen</string>
   <!-- haptic feedback  -->
+  <string name="touchscreen_extras">Ekstrat</string>
+  <string name="haptic_feedback">Haptinen palaute</string>
+  <string name="haptic_feedback_summary">Värise kun ele on havaittu</string>
   <!-- Button settings -->
   <string name="button_panel_title">Lisänäppäimet</string>
+  <string name="buttons_dashboard_summary">Hälytys Siiderin asetukset</string>
   <!-- Notification slider -->
   <string name="notification_slider_selection_dialog_title">Toiminto</string>
   <string name="notification_slider_top_position">Yläasento</string>

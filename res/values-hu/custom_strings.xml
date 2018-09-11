@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Haladó beállítások</string>
   <!-- O-Touch settings -->
   <string name="touchpad_enable_title">O-Touch engedélyezése</string>
   <string name="touchpad_enable_summary">Telefon navigálása hátsó touchpad-dal</string>
@@ -24,11 +25,19 @@
   <string name="touchpad_double_tap_title">Kép készítése dupla érintéssel</string>
   <string name="touchpad_double_tap_summary">A kamera alkalmazás futása esetén kép készítése dupla érintéssel</string>
   <!-- Gesture shortcuts -->
+  <string name="screen_gestures_panel_title">Készülék extrák</string>
+  <string name="gestures_dashboard_summary">OnePlus specifikus gesztusvezérlés</string>
+  <string name="touchscreen_double_tap_gesture_title">Eszköz felébresztése</string>
+  <string name="touchscreen_double_tap_gesture_summary">Dupla érintés felébreszti az eszközt</string>
   <string name="touchscreen_camera_gesture_title">Kamera</string>
   <string name="touchscreen_camera_gesture_summary">Rajzoljon egy kört a kamera aktiválásához</string>
   <string name="touchscreen_music_gesture_title">Zene</string>
   <string name="touchscreen_flashlight_gesture_title">Zseblámpa</string>
   <string name="touchscreen_flashlight_gesture_summary">Rajzoljon egy \"V\" betűt a zseblámpához</string>
+  <string name="touchscreen_music_gesture_summary">Lejátszás irányítása gesztusvezérléssel\n
+   • Két ujj függőlegesen indításhoz6/leállításhoz\n
+   • Balra nyíl (\'&#60;\') az előző számhoz\n
+   • Jobbra nyíl (\'&#62;\') a következő számhoz</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">Csatlakozás</string>
   <string name="oclick_disconnect_string">Lecsatlakozás</string>
@@ -52,8 +61,12 @@
   <string name="oclick_notification_title_disconnected">O-Click leválasztva</string>
   <string name="oclick_notification_content_disconnected">Érintse meg az O-Click gombot az újracsatlakozáshoz</string>
   <!-- haptic feedback  -->
+  <string name="touchscreen_extras">Extrák</string>
+  <string name="haptic_feedback">Érintési visszajelzés</string>
+  <string name="haptic_feedback_summary">Rezgés amikor egy gesztust érzékel</string>
   <!-- Button settings -->
   <string name="button_panel_title">További gombok</string>
+  <string name="buttons_dashboard_summary">Csúszka beállításaihoz</string>
   <!-- Notification slider -->
   <string name="notification_slider_selection_dialog_title">Művelet</string>
   <string name="notification_slider_top_position">Felső pozíció</string>

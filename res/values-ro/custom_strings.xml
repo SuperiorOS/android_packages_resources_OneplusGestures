@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Setări avansate</string>
   <!-- O-Touch settings -->
   <string name="touchpad_enable_title">Activează O-Touch</string>
   <string name="touchpad_enable_summary">Touchpad spate pentru a naviga pe telefon</string>
@@ -24,11 +25,19 @@
   <string name="touchpad_double_tap_title">Apăsare dublă pentru captură</string>
   <string name="touchpad_double_tap_summary">În cameră, apasă de două ori pentru a captura imaginea</string>
   <!-- Gesture shortcuts -->
+  <string name="screen_gestures_panel_title">Gesturi</string>
+  <string name="gestures_dashboard_summary">Gesturi specifice dispozitivelor OnePlus</string>
+  <string name="touchscreen_double_tap_gesture_title">Trezește dispozitivul</string>
+  <string name="touchscreen_double_tap_gesture_summary">Apăsare dublă pentru a trezi dispozitivul</string>
   <string name="touchscreen_camera_gesture_title">Cameră</string>
   <string name="touchscreen_camera_gesture_summary">Desenează un cerc pentru a activa camera</string>
   <string name="touchscreen_music_gesture_title">Muzică</string>
   <string name="touchscreen_flashlight_gesture_title">Lanternă</string>
   <string name="touchscreen_flashlight_gesture_summary">Desenează un „v” pentru a deschide lanterna</string>
+  <string name="touchscreen_music_gesture_summary">Folosiți gesturi pentru a controla redarea muzicii\n
+    • Două degete vertical pentru redare/pauză\n
+    • Desenează o săgeată la stânga (\'&#60;\') pentru melodia anterioară\n
+    • Desenează o săgeată la dreapta (\'&#62;\') pentru melodia următoare</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">Conectează</string>
   <string name="oclick_disconnect_string">Deconectează</string>
@@ -52,6 +61,19 @@
   <string name="oclick_notification_title_disconnected">O-Click deconectat</string>
   <string name="oclick_notification_content_disconnected">Apăsați butonul O-Click pentru a reconecta</string>
   <!-- haptic feedback  -->
+  <string name="touchscreen_extras">Extra</string>
+  <string name="haptic_feedback">Reacție tactilă</string>
+  <string name="haptic_feedback_summary">Vibrează atunci când un gest este detectat</string>
   <!-- Button settings -->
+  <string name="button_panel_title">Slider de alertă</string>
+  <string name="buttons_dashboard_summary">Setări slider de alertă</string>
   <!-- Notification slider -->
+  <string name="notification_slider_selection_dialog_title">Acţiune</string>
+  <string name="notification_slider_top_position">Poziția de sus</string>
+  <string name="notification_slider_middle_position">Poziția de mijloc</string>
+  <string name="notification_slider_bottom_position">Poziția de jos</string>
+  <string name="notification_slider_mode_total_silence">Niciun sunet</string>
+  <string name="notification_slider_mode_alarms_only">Doar alarme</string>
+  <string name="notification_slider_mode_priority_only">Doar cu prioritate</string>
+  <string name="notification_slider_mode_none">Nimic</string>
 </resources>
