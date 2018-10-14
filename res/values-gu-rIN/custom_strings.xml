@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">અધ્યતન સેટિંગ્સ</string>
   <!-- O-Touch settings -->
   <string name="touchpad_enable_title">O-ટચ સક્ષમ કરો</string>
   <string name="touchpad_enable_summary">ફોન નેવિગેટ કરવા પાછળનું ટચપૅડ</string>
@@ -24,11 +25,19 @@
   <string name="touchpad_double_tap_title">કૅપ્ચર કરવા ડબલ ટૅપ કરો</string>
   <string name="touchpad_double_tap_summary">કેમેરામાં હોવ ત્યારે છબી કૅપ્ચર કરવા ડબલ ટૅપ કરો</string>
   <!-- Gesture shortcuts -->
+  <string name="screen_gestures_panel_title">ઉપકરણ એક્સ્ટ્રાઝ</string>
+  <string name="gestures_dashboard_summary">OnePlus ઉપકરણો માટે વિશિષ્ટ હાવભાવ</string>
+  <string name="touchscreen_double_tap_gesture_title">વેક ઉપકરણ</string>
+  <string name="touchscreen_double_tap_gesture_summary">ઉપકરણને વેગ આપવા માટે બે વાર ટેપ કરો</string>
   <string name="touchscreen_camera_gesture_title">કૅમેરો</string>
   <string name="touchscreen_camera_gesture_summary">ગોળાકાર પાડીને કેમેરાને સક્રિય કરો</string>
   <string name="touchscreen_music_gesture_title">સંગીત</string>
   <string name="touchscreen_flashlight_gesture_title">ફ્લેશલાઇટ</string>
   <string name="touchscreen_flashlight_gesture_summary">ફ્લૅશલાઇટ ટૉગલ કરવા માટે \'V\' દોરો</string>
+  <string name="touchscreen_music_gesture_summary">સંગીત પ્લેબેકને નિયંત્રિત કરવા માટે હાવભાવનો ઉપયોગ કરો \n 
+• પ્લે / પ્લે થવામાં બે આંગળીઓ ઊભી \n 
+• પાછલા ટ્રૅક માટે ડાબી તીર (\'&#60;\') દોરો \n 
+• આગલા ટ્રૅક માટે જમણો તીર (\'&#62;\') દોરો</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">કનેક્ટ કરો</string>
   <string name="oclick_disconnect_string">ડિસ્કનેક્ટ કરો</string>
@@ -52,6 +61,19 @@
   <string name="oclick_notification_title_disconnected">O-ક્લિક ડિસકનેક્ટ થયું</string>
   <string name="oclick_notification_content_disconnected">ફરી કનેક્ટ કરવા ઓ-ક્લિક બટન દબાવો</string>
   <!-- haptic feedback  -->
+  <string name="touchscreen_extras">વધારાનું</string>
+  <string name="haptic_feedback">હેપ્ટિક પ્રતિભાવ</string>
+  <string name="haptic_feedback_summary">જ્યારે ટચસ્ક્રીન જેસચર શોધાયેલ હોય ત્યારે ધ્રૂજવું</string>
   <!-- Button settings -->
+  <string name="button_panel_title">ચેતવણી સ્લાઇડર</string>
+  <string name="buttons_dashboard_summary">ચેતવણી સ્લાઇડર સેટિંગ્સ</string>
   <!-- Notification slider -->
+  <string name="notification_slider_selection_dialog_title">પગલાં</string>
+  <string name="notification_slider_top_position">ટોચની સ્થિતિ</string>
+  <string name="notification_slider_middle_position">મધ્ય સ્થાન</string>
+  <string name="notification_slider_bottom_position">નીચી સ્થિતિ</string>
+  <string name="notification_slider_mode_total_silence">સંપૂર્ણ મૌન</string>
+  <string name="notification_slider_mode_alarms_only">ફક્ત એલાર્મ્સ</string>
+  <string name="notification_slider_mode_priority_only">ફક્ત પ્રાધાન્યતા</string>
+  <string name="notification_slider_mode_none">કંઈ નહીં</string>
 </resources>

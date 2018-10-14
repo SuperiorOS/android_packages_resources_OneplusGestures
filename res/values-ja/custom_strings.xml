@@ -49,9 +49,9 @@
   <string name="oclick_find_my_phone_title">携帯電話ロケータ</string>
   <string name="oclick_find_my_phone_summary">ダブルクリックで携帯電話を探す</string>
   <string name="oclick_fence_title">接近警告</string>
-  <string name="oclick_fence_summary">携帯電話が近くにないときに警告する</string>
+  <string name="oclick_fence_summary">携帯電話が近くにない時に警告する</string>
   <string name="oclick_disconnect_alert_title">範囲外警告</string>
-  <string name="oclick_disconnect_alert_summary">範囲外に出たときに警告する</string>
+  <string name="oclick_disconnect_alert_summary">範囲外に出た時に警告する</string>
   <string name="alert_category_title">警告</string>
   <string name="action_category_title">アクション</string>
   <!-- O-Click notification -->
@@ -63,7 +63,7 @@
   <!-- haptic feedback  -->
   <string name="touchscreen_extras">その他</string>
   <string name="haptic_feedback">振動フィードバック</string>
-  <string name="haptic_feedback_summary">ジェスチャーを検出したときに振動させる</string>
+  <string name="haptic_feedback_summary">ジェスチャーを検出した時に振動させる</string>
   <!-- Button settings -->
   <string name="button_panel_title">アラートスライダー</string>
   <string name="buttons_dashboard_summary">アラートスライダーの設定</string>

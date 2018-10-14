@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">Axustes avanzados</string>
   <!-- O-Touch settings -->
   <string name="touchpad_enable_title">Activar O-Touch</string>
   <string name="touchpad_enable_summary">Panel táctil traseiro para navegar polo teléfono</string>
@@ -24,11 +25,19 @@
   <string name="touchpad_double_tap_title">Pulsación doble para capturar</string>
   <string name="touchpad_double_tap_summary">Na cámara, unha doble pulsación capturará unha foto</string>
   <!-- Gesture shortcuts -->
+  <string name="screen_gestures_panel_title">Extras</string>
+  <string name="gestures_dashboard_summary">Xestos específicos para dispositivos OnePlus</string>
+  <string name="touchscreen_double_tap_gesture_title">Despertar dispositivo</string>
+  <string name="touchscreen_double_tap_gesture_summary">Unha doble pulsación espertará o dispositivo</string>
   <string name="touchscreen_camera_gesture_title">Cámara</string>
   <string name="touchscreen_camera_gesture_summary">Debuxar un círculo para activar a cámara</string>
   <string name="touchscreen_music_gesture_title">Música</string>
   <string name="touchscreen_flashlight_gesture_title">Lanterna</string>
   <string name="touchscreen_flashlight_gesture_summary">Debuxar un \"V\" para cambiar o estado da lanterna</string>
+  <string name="touchscreen_music_gesture_summary">Utilizar xestos para controlar a reprodución da música\n
+    • Escorregar dous dedos verticalmente para reproducir/pausar\n
+    • Debuxar unha frecha para a esquerda  (\'&#60;\') para retroceder\n
+    • Debuxar unha frecha para a dereita  (\'&#62;\') para avanzar</string>
   <!-- O-Click settings -->
   <string name="oclick_connect_string">Conectar</string>
   <string name="oclick_disconnect_string">Desconectar</string>
@@ -52,6 +61,19 @@
   <string name="oclick_notification_title_disconnected">O-Click desconectado</string>
   <string name="oclick_notification_content_disconnected">Pulse o botón O-Click para volver conectar</string>
   <!-- haptic feedback  -->
+  <string name="touchscreen_extras">Extras</string>
+  <string name="haptic_feedback">Resposta Tàctil</string>
+  <string name="haptic_feedback_summary">Vibrar cando se detecte un xesto táctil</string>
   <!-- Button settings -->
+  <string name="button_panel_title">Control deslizante</string>
+  <string name="buttons_dashboard_summary">Axustes do control deslizante</string>
   <!-- Notification slider -->
+  <string name="notification_slider_selection_dialog_title">Acción</string>
+  <string name="notification_slider_top_position">Posición superior</string>
+  <string name="notification_slider_middle_position">Posición media</string>
+  <string name="notification_slider_bottom_position">Posición inferior</string>
+  <string name="notification_slider_mode_total_silence">Silencio total</string>
+  <string name="notification_slider_mode_alarms_only">Só alarmas</string>
+  <string name="notification_slider_mode_priority_only">Só prioridade</string>
+  <string name="notification_slider_mode_none">Ningún</string>
 </resources>
